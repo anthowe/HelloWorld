@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{A328A78F-002B-4460-A688-86E981B18F53}|Default">
+  <MonoDevelop.Ide.ItemProperties.HelloWorld.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.224B1572-21F6-4B68-B73C-80FE04EE3ABE" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelloWorld/GreetPage.xaml.cs">
+    <Files>
+      <File FileName="HelloWorld/GreetPage.xaml" Line="5" Column="83" />
+      <File FileName="HelloWorld/GreetPage.xaml.cs" Line="28" Column="53" />
+      <File FileName="HelloWorld/App.xaml.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HelloWorld" expanded="True">
+            <Node name="HelloWorld" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="GreetPage.xaml" expanded="True">
+                <Node name="GreetPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.HelloWorld.Android PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
