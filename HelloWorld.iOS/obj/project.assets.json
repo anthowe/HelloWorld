@@ -960,11 +960,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/anthonyhowe/Projects/HelloWorld/HelloWorld.iOS/HelloWorld.iOS.csproj",
+      "projectUniqueName": "/Users/anthonyhowe/Desktop/HelloWorld/HelloWorld/HelloWorld.iOS/HelloWorld.iOS.csproj",
       "projectName": "HelloWorld.iOS",
-      "projectPath": "/Users/anthonyhowe/Projects/HelloWorld/HelloWorld.iOS/HelloWorld.iOS.csproj",
+      "projectPath": "/Users/anthonyhowe/Desktop/HelloWorld/HelloWorld/HelloWorld.iOS/HelloWorld.iOS.csproj",
       "packagesPath": "/Users/anthonyhowe/.nuget/packages/",
-      "outputPath": "/Users/anthonyhowe/Projects/HelloWorld/HelloWorld.iOS/obj/",
+      "outputPath": "/Users/anthonyhowe/Desktop/HelloWorld/HelloWorld/HelloWorld.iOS/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -979,8 +979,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/anthonyhowe/Projects/HelloWorld/HelloWorld/HelloWorld.csproj": {
-              "projectPath": "/Users/anthonyhowe/Projects/HelloWorld/HelloWorld/HelloWorld.csproj"
+            "/Users/anthonyhowe/Desktop/HelloWorld/HelloWorld/HelloWorld/HelloWorld.csproj": {
+              "projectPath": "/Users/anthonyhowe/Desktop/HelloWorld/HelloWorld/HelloWorld/HelloWorld.csproj"
             }
           }
         }

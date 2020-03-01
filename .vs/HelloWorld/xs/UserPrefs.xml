@@ -1,10 +1,11 @@
-﻿<Properties StartupConfiguration="{A328A78F-002B-4460-A688-86E981B18F53}|Default">
-  <MonoDevelop.Ide.ItemProperties.HelloWorld.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.224B1572-21F6-4B68-B73C-80FE04EE3ABE" />
+﻿<Properties StartupConfiguration="{1AE1B2BD-23DC-4D40-B700-981BAA6A7693}|Default">
+  <MonoDevelop.Ide.ItemProperties.HelloWorld.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.970FE41B-C991-44DC-B589-FAAC33318418" />
   <MonoDevelop.Ide.Workbench ActiveDocument="HelloWorld/GreetPage.xaml.cs">
     <Files>
-      <File FileName="HelloWorld/GreetPage.xaml" Line="5" Column="83" />
-      <File FileName="HelloWorld/GreetPage.xaml.cs" Line="28" Column="53" />
-      <File FileName="HelloWorld/App.xaml.cs" />
+      <File FileName="HelloWorld/GreetPage.xaml" Line="32" Column="15" />
+      <File FileName="HelloWorld/GreetPage.xaml.cs" Line="11" Column="9" />
+      <File FileName="HelloWorld/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="HelloWorld/AssemblyInfo.cs" Line="3" Column="58" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

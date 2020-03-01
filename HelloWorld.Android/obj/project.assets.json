@@ -1904,11 +1904,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/anthonyhowe/Projects/HelloWorld/HelloWorld.Android/HelloWorld.Android.csproj",
+      "projectUniqueName": "/Users/anthonyhowe/Desktop/HelloWorld/HelloWorld/HelloWorld.Android/HelloWorld.Android.csproj",
       "projectName": "HelloWorld.Android",
-      "projectPath": "/Users/anthonyhowe/Projects/HelloWorld/HelloWorld.Android/HelloWorld.Android.csproj",
+      "projectPath": "/Users/anthonyhowe/Desktop/HelloWorld/HelloWorld/HelloWorld.Android/HelloWorld.Android.csproj",
       "packagesPath": "/Users/anthonyhowe/.nuget/packages/",
-      "outputPath": "/Users/anthonyhowe/Projects/HelloWorld/HelloWorld.Android/obj/",
+      "outputPath": "/Users/anthonyhowe/Desktop/HelloWorld/HelloWorld/HelloWorld.Android/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -1923,8 +1923,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "/Users/anthonyhowe/Projects/HelloWorld/HelloWorld/HelloWorld.csproj": {
-              "projectPath": "/Users/anthonyhowe/Projects/HelloWorld/HelloWorld/HelloWorld.csproj"
+            "/Users/anthonyhowe/Desktop/HelloWorld/HelloWorld/HelloWorld/HelloWorld.csproj": {
+              "projectPath": "/Users/anthonyhowe/Desktop/HelloWorld/HelloWorld/HelloWorld/HelloWorld.csproj"
             }
           }
         }

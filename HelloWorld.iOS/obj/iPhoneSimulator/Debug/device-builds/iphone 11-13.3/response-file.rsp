@@ -1,18 +1,18 @@
-"--cache=/Users/anthonyhowe/Projects/HelloWorld/HelloWorld.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/mtouch-cache"
-"--sim=/Users/anthonyhowe/Projects/HelloWorld/HelloWorld.iOS/bin/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/HelloWorld.iOS.app"
+"--cache=/Users/anthonyhowe/Desktop/HelloWorld/HelloWorld/HelloWorld.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/mtouch-cache"
+"--sim=/Users/anthonyhowe/Desktop/HelloWorld/HelloWorld/HelloWorld.iOS/bin/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/HelloWorld.iOS.app"
 --executable=HelloWorld.iOS
  --debug
  --sgen-conc
  --nolink
---sdkroot=/Users/anthonyhowe/Desktop/Xcode.app/Contents/Developer
+--sdkroot=/Applications/Xcode.app/Contents/Developer
 --sdk=13.2
 --targetver=8.0
  --aot-options=-O=-float32
  --http-message-handler=NSUrlSessionHandler
  --abi=x86_64
-"--symbollist=/Users/anthonyhowe/Projects/HelloWorld/HelloWorld.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/mtouch-symbols.list"
+"--symbollist=/Users/anthonyhowe/Desktop/HelloWorld/HelloWorld/HelloWorld.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/mtouch-symbols.list"
  --dsym=no
--r=/Users/anthonyhowe/Projects/HelloWorld/HelloWorld/bin/Debug/netstandard2.0/HelloWorld.dll
+-r=/Users/anthonyhowe/Desktop/HelloWorld/HelloWorld/HelloWorld/bin/Debug/netstandard2.0/HelloWorld.dll
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/OpenTK-1.0.dll
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll
@@ -203,7 +203,7 @@
 -r=/Users/anthonyhowe/.nuget/packages/xamarin.forms/4.5.0.356/lib/Xamarin.iOS10/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
 -r=/Users/anthonyhowe/.nuget/packages/xamarin.forms/4.5.0.356/lib/Xamarin.iOS10/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
 -r=/Users/anthonyhowe/.nuget/packages/xamarin.forms/4.5.0.356/lib/Xamarin.iOS10/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
--r=/Users/anthonyhowe/Projects/HelloWorld/HelloWorld/bin/Debug/netstandard2.0/HelloWorld.dll
+-r=/Users/anthonyhowe/Desktop/HelloWorld/HelloWorld/HelloWorld/bin/Debug/netstandard2.0/HelloWorld.dll
  --target-framework=Xamarin.iOS,v1.0
---root-assembly=/Users/anthonyhowe/Projects/HelloWorld/HelloWorld.iOS/bin/iPhoneSimulator/Debug/HelloWorld.iOS.exe
+--root-assembly=/Users/anthonyhowe/Desktop/HelloWorld/HelloWorld/HelloWorld.iOS/bin/iPhoneSimulator/Debug/HelloWorld.iOS.exe
  
