@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/anthonyhowe/Desktop/HelloWorld/HelloWorld/HelloWorld/HelloWorld.csproj": {}
+    "/Users/anthonyhowe/Desktop/HelloWorld/HelloWorld/HelloWorld.csproj": {}
   },
   "projects": {
-    "/Users/anthonyhowe/Desktop/HelloWorld/HelloWorld/HelloWorld/HelloWorld.csproj": {
+    "/Users/anthonyhowe/Desktop/HelloWorld/HelloWorld/HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/anthonyhowe/Desktop/HelloWorld/HelloWorld/HelloWorld/HelloWorld.csproj",
+        "projectUniqueName": "/Users/anthonyhowe/Desktop/HelloWorld/HelloWorld/HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "/Users/anthonyhowe/Desktop/HelloWorld/HelloWorld/HelloWorld/HelloWorld.csproj",
+        "projectPath": "/Users/anthonyhowe/Desktop/HelloWorld/HelloWorld/HelloWorld.csproj",
         "packagesPath": "/Users/anthonyhowe/.nuget/packages/",
-        "outputPath": "/Users/anthonyhowe/Desktop/HelloWorld/HelloWorld/HelloWorld/obj/",
+        "outputPath": "/Users/anthonyhowe/Desktop/HelloWorld/HelloWorld/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/anthonyhowe/.config/NuGet/NuGet.Config"
