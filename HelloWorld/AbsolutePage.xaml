@@ -5,7 +5,7 @@
 
     <AbsoluteLayout>
 
-        <BoxView Color="#f7f7f7"
+        <BoxView Color="#f7f7f7" x:Name="banner"
                  AbsoluteLayout.LayoutBounds="0,0,1,.3"
                  AbsoluteLayout.LayoutFlags="All"/>
           <StackLayout HorizontalOptions="Center" VerticalOptions="Center"
@@ -13,14 +13,20 @@
                        AbsoluteLayout.LayoutFlags="All">
                  <Label Text="$11.95" VerticalOptions="Center" FontSize="60" FontAttributes="Bold" TextColor="#33353a"
                         />
-        <Button Text="Add $7.99 credit" BackgroundColor="#1695A3" BorderRadius="15" HeightRequest="30" FontSize="15" FontAttributes="Bold" TextColor="White"/>
+        <Button Text="Add $7.99 credit"  BackgroundColor="#1695A3" BorderRadius="15" HeightRequest="30" FontSize="15" FontAttributes="Bold" TextColor="White"/>
             </StackLayout>
         <StackLayout Padding="40, 0" Spacing="20"
                      AbsoluteLayout.LayoutBounds="0,0.5,1,.3"
                      AbsoluteLayout.LayoutFlags="All">
-            <Label Text="Why pay for Credit?" HorizontalOptions="Center" FontSize="15"/>
-            <Label HorizontalOptions="Center" VerticalOptions="Center" FontSize="13"> Because you can reach people who aren’t on SkyApp by calling mobile and landline numbers, or spending SMS, at low-cost rates.
+           
+
+                <Label Text="Why pay for Credit?" HorizontalOptions="Center"  FontSize="25"/>
+               
+           
+                <Label  FontSize="13" VerticalOptions="Center"> Because you can reach people who aren’t on SkyApp by calling mobile and landline numbers, or spending SMS, at low-cost rates.
             </Label>
+            
+         
         </StackLayout>
             
           

@@ -45,3 +45,7 @@
 /Users/anthonyhowe/Desktop/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/GridPage.xaml.g.cs
 /Users/anthonyhowe/Desktop/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/PhonePage.xaml.g.cs
 /Users/anthonyhowe/Desktop/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/AbsolutePage.xaml.g.cs
+/Users/anthonyhowe/Desktop/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/PracticePage.xaml.g.cs
+/Users/anthonyhowe/Desktop/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/RelativePage.xaml.g.cs
+/Users/anthonyhowe/Desktop/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/RelativePageTwo.xaml.g.cs
+/Users/anthonyhowe/Desktop/HelloWorld/HelloWorld/obj/Debug/netstandard2.0/ImagePage.xaml.g.cs

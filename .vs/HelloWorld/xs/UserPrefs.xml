@@ -1,26 +1,26 @@
 ﻿<Properties StartupConfiguration="{1AE1B2BD-23DC-4D40-B700-981BAA6A7693}|Default">
   <MonoDevelop.Ide.ItemProperties.HelloWorld.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.5D41332F-9E14-4B6F-B988-0330C972AC42" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="HelloWorld/AbsolutePage.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelloWorld/ImagePage.xaml">
     <Files>
-      <File FileName="HelloWorld/GridPage.xaml" />
-      <File FileName="HelloWorld/GridPage.xaml.cs" />
-      <File FileName="HelloWorld/PhonePage.xaml" Line="33" Column="120" />
-      <File FileName="HelloWorld/PhonePage.xaml.cs" />
-      <File FileName="HelloWorld/AbsolutePage.xaml" Line="25" Column="1" />
-      <File FileName="HelloWorld/AbsolutePage.xaml.cs" Line="21" Column="94" />
-      <File FileName="../../Downloads/AbsoluteLayout Exercise - Solutions/Exercise1/AbsoluteLayoutExercise1.xaml" Line="1" Column="39" />
+      <File FileName="HelloWorld/App.xaml.cs" Line="13" Column="37" />
+      <File FileName="HelloWorld/ImagePage.xaml" Line="6" Column="59" />
+      <File FileName="HelloWorld/ImagePage.xaml.cs" Line="15" Column="46" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="HelloWorld" expanded="True">
             <Node name="HelloWorld" expanded="True">
-              <Node name="AbsolutePage.xaml" expanded="True" selected="True" />
+              <Node name="AbsolutePage.xaml" expanded="True" />
               <Node name="App.xaml" expanded="True" />
               <Node name="GreetPage.xaml" expanded="True" />
               <Node name="GridPage.xaml" expanded="True" />
+              <Node name="ImagePage.xaml" expanded="True" selected="True" />
               <Node name="PhonePage.xaml" expanded="True" />
               <Node name="PhotoLayout.xaml" expanded="True" />
+              <Node name="PracticePage.xaml" expanded="True" />
+              <Node name="RelativePage.xaml" expanded="True" />
+              <Node name="RelativePageTwo.xaml" expanded="True" />
               <Node name="StackPage.xaml" expanded="True" />
             </Node>
           </Node>

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage 
+             xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="HelloWorld.RelativePageTwo">
+    <RelativeLayout>
+
+        <BoxView BackgroundColor="#f7f7f7" x:Name="banner"
+                 RelativeLayout.HeightConstraint="{ConstraintExpression
+                    Factor=.3,
+                    Type=RelativeToParent, Property=Height}"
+            
+                 RelativeLayout.WidthConstraint="{ConstraintExpression
+                    Type=RelativeToParent,
+                    Property=Width,
+                    Constant=1}"/>
+        <StackLayout HorizontalOptions="Center" VerticalOptions="Center" RelativeLayout.HeightConstraint="{ConstraintExpression
+            Type=RelativeToParent,
+            Factor=.3,
+            Property=Height}"
+                     RelativeLayout.WidthConstraint="{ConstraintExpression
+            Constant=1,
+            Type=RelativeToParent,Property=Width}">
+             <Label Text="$11.95" TextColor="#33353a" FontSize="60" FontAttributes="Bold"/>
+            <Button Text="Add $7.99 Credit" BackgroundColor="#1695A3" CornerRadius="15" FontSize="15" FontAttributes="Bold" TextColor="White"/>
+        </StackLayout>
+
+        <StackLayout 
+                     RelativeLayout.WidthConstraint="{ConstraintExpression
+            Property=Width,
+            Factor=1,
+            Type=RelativeToParent}"
+                     RelativeLayout.YConstraint="{ConstraintExpression
+            Constant=30,
+            ElementName=banner,
+            Factor=1,
+            Property=Height,Type=RelativeToView}">
+            <Label Text="Why pay for credit?" HorizontalOptions="Center" FontSize="15" FontAttributes="Bold"/>
+            <Label FontSize="13" HorizontalOptions="Center" HorizontalTextAlignment="Center">
+                Because you can reach people who aren’t on SkyApp by calling mobile and landline numbers, or spending SMS, at low-cost rates.
+            </Label>
+
+        </StackLayout>
+       
+       
+   
+    </RelativeLayout>
+
+    
+</ContentPage>
